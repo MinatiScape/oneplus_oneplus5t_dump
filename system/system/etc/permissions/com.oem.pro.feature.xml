@@ -1,0 +1,4 @@
+<permissions>
+    <!--add sim contacts autosync feature by contacts team-->
+    <!-- <feature name="oem.sim_contacts.autosync.support" /> -->
+</permissions>

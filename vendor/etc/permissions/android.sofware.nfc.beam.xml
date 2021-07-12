@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This feature indicates that the device supports Android Beam -->
+<permissions>
+    <feature name="android.sofware.nfc.beam" />
+</permissions>
